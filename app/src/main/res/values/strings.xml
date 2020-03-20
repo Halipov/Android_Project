@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="no_todos">Нет текущих задач</string>
+
+    <string name="menu_insert">Добавить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="todo_summary">Кратко</string>
+    <string name="todo_description">Описание</string>
+    <string name="todo_confirm">Применить</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Title</string>
+    <string name="task">Задача</string>
+    <string-array name="priorities">
+        <item>Срочные</item>
+        <item>Напомнить</item>
+    </string-array>
+
+</resources>
